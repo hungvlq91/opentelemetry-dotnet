@@ -25,3 +25,11 @@
     ```shell
     dotnet run
     ```
+
+3. Test 
+    
+    Send a request:
+
+    ```shell
+    curl http://localhost:5000/hello
+    ```
